@@ -6,7 +6,7 @@
             }
          })
 
-            function reason_file()
+            function reason_file_new()
 {
     var modal = document.getElementById("myModal_reason");
       var btn=document.getElementById("clo_reason");
